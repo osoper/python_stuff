@@ -1,0 +1,3 @@
+The final project from my advanced data analytics class.
+The CSV file contains millions of transactions, but some are fraudulent...
+Various machine learning models with different predictors were tested to predict fraud with utmost accuracy.
